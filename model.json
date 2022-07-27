@@ -1,0 +1,6 @@
+{
+    "id": "a957f9c6-a96e-4f07-a141-a63a699632e8",
+    "name": "XGBoost Churn",
+    "description": "Modelo tipo XGBoost para estimar la Probabilidad de Churn",
+    "language": "python"
+}
