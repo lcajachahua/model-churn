@@ -12,6 +12,14 @@ from aoa import (
 
 import joblib
 
+def save_plot(title):
+    import matplotlib.pyplot as plt
+
+    plt.title(title)
+    fig = plt.gcf()
+    filename = title.replace(" ", "_").lower()
+    fig.savefig('artifacts/output/{}'.format(filename), dpi=500)
+    plt.clf()
 
 def train(context: ModelContext, **kwargs):
     aoa_create_context()
