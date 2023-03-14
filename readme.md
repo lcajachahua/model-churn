@@ -1,10 +1,12 @@
-# Models
+# Churn XGBoost Model
 
-Aoa Models Repository. 
+Repositorio de Modelo de Churn para su implementación en ModelOps
 
-*Replace with relevant description.* 
+La información de origen se encuentra disponible públicamente en el repositorio de Kaggle: https://www.kaggle.com/code/ronitf/churn-prediction-telecom/data
 
-Refer to the [Official Documentation](https://docs.tdaoa.com) for more information.
+Para más detalles, puede acceder a la [Documentación Oficial](https://docs.teradata.com/r/Enterprise_VMware_IntelliFlex/Teradata-VantageTM-ModelOps-User-Guide).
 
-# Available Models
+
+
+Copyright 2023. Elaborado por Luis Cajachahua bajo licencia MIT
 
